@@ -48,7 +48,7 @@
 <br>
 
 <div align=center>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevynidd&theme=react-dark" width="100%"/> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevynidd&theme=react&radius=10" width="100%"/> 
 </div>
 
 <h2 align="center">Repos</h2>
