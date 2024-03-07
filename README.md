@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/karina-kock-ab272821a/" title="LinkedIn Profil"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.xing.com/profile/Karina_Kock077660/" title="Xing Profil"><img width="22" src="images/xing.svg"> Xing</a></code>
+  <code><a href="https://www.linkedin.com/in/karina-kock-ab272821a/" title="LinkedIn Profil"><img width="28" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.xing.com/profile/Karina_Kock077660/" title="Xing Profil"><img width="28" src="images/xing.svg"> Xing</a></code>
 </h5>
 <br>
