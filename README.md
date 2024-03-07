@@ -32,12 +32,20 @@
 <p align=center>
   <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sevynidd&theme=react&locale=de&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sevynidd&show_icons=true&theme=react&locale=de&date_format=j%20M%5B%20Y%5D"/></a>
+  </div>
   <br><br><br><br><br><br><br><br><br>
+
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sevynidd&show_icons=true&theme=react&locale=de&date_format=j%20M%5B%20Y%5D"/></a>  
+  </div>
+
+  <br><br><br><br><br><br><br><br><br>
+  
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevynidd&layout=compact&hide=javascript&theme=react&locale=de"/></a>
   </div>
-  <br>
+
+  <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevynidd&theme=react-dark" width="100%"/> 
   </div>
