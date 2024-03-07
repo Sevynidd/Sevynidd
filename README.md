@@ -39,8 +39,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevynidd&layout=compact&hide=javascript&theme=react&locale=de"/></a>
   </div>
   <br><br><br><br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevynidd&theme=react-dark" width="100%"/>
+  <div align=center>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevynidd&theme=react-dark" width="100%"/> 
+  </div>
 </p>
 
 <h2 align="center">Repos</h2>
