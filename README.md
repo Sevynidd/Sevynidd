@@ -42,3 +42,11 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevynidd&theme=react-dark" width="100%"/>
 </p>
+
+<h2 align="center">Repos</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/sevynidd/Portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sevynidd&repo=Portfolio&theme=react&border_radius=10"></a>
+  <a align="right" href="https://github.com/sevynidd/Blutspende_App" title="Blutspende_App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sevynidd&repo=Blutspende_App&theme=react&border_radius=10"></a>
+</div>
+<br/><br/><br/>
