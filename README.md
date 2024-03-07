@@ -13,8 +13,15 @@
 <hr>
 <h2 align="center">Sprachen, Frameworks, Tools & Fähigkeiten</h2>
 <br>
-<p align="center">
-  
+
+<p align="center">  
   <code><img title="Kotlin" height="28" src="images/kotlin.svg"></code>
+  <code><img title="JetpackCompose-Framework" height="28" src="images/jetpack_compose.svg"></code>
+  <code><img title="Android" height="28" src="images/android.svg"></code>
+  <code><img title="Java" height="28" src="images/java.svg"></code>
+  <code><img title="HTML5" height="28" src="images/html5.svg"></code>
+  <code><img title="Python" height="28" src="images/python.svg"></code>
+  <code><img title="MySQL" height="28" src="images/mysql.svg"></code>
+  <code><img title="MariaDB" height="28" src="images/maria_db.svg"></code>
 </p>
 <hr>
