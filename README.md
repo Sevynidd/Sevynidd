@@ -27,34 +27,8 @@
 </p>
 <hr>
 
-<h2 align="center">Stats</h2>
-<br>
-
-<div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sevynidd&theme=react&locale=de&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/></a>
-</div>
-<br>
-
-<div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width=390 src="https://github-readme-stats.vercel.app/api?username=sevynidd&show_icons=true&theme=react&locale=de&date_format=j%20M%5B%20Y%5D"/></a>  
-</div>
-
-<br>
-
-<div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevynidd&layout=compact&hide=javascript&theme=react&locale=de"/></a>
-</div>
-
-<br>
-
 <div align=center>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevynidd&theme=react&radius=10" width="100%"/> 
 </div>
 
-<h2 align="center">Repos</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/sevynidd/Portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sevynidd&repo=Portfolio&theme=react&border_radius=10"></a>
-  <a align="right" href="https://github.com/sevynidd/Blutspende_App" title="Blutspende_App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sevynidd&repo=Blutspende_App&theme=react&border_radius=10"></a>
-</div>
 <br/><br/><br/>
