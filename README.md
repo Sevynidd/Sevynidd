@@ -5,7 +5,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/karina-kock-ab272821a/" title="LinkedIn Profil"><img width="32" src="images/linkedin.svg"> LinkedIn</a></code>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/karina-kock-ab272821a/)  
 </h5>
 
 <br>
@@ -14,20 +15,23 @@
 <br>
 
 <p align="center">  
-  <code><img title="Kotlin" height="32" src="images/kotlin.svg"></code>
-  <code><img title="JetpackCompose-Framework" height="32" src="images/jetpack_compose.svg"></code>
-  <code><img title="Android" height="32" src="images/android.svg"></code>
-  <code><img title="Java" height="32" src="images/java.svg"></code>
-  <code><img title="Delphi" height="32" src="images/delphi.svg"></code>
-  <code><img title="HTML5" height="32" src="images/html5.svg"></code>
-  <code><img title="Python" height="32" src="images/python.svg"></code>
-  <code><img title="MySQL" height="32" src="images/mysql.svg"></code>
-  <code><img title="MariaDB" height="32" src="images/maria_db.svg"></code>
+
+  ![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
+  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 </p>
 <hr>
 
 <div align=center>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevynidd&theme=react&radius=10" width="100%"/> 
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Sevynidd&theme=react&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevynidd&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <br/><br/><br/>
