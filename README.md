@@ -26,12 +26,3 @@
 
 </p>
 <hr>
-
-<div align=center>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevynidd&theme=react&radius=10" width="100%"/> 
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Sevynidd&theme=react&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevynidd&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
-<br/><br/><br/>
